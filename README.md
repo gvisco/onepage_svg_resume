@@ -2,8 +2,10 @@
 A template of a one-page resume, in SVG.
 
 ## How does is look like?
-There you have it:
-[preview](https://user-images.githubusercontent.com/15855980/132996492-b86af69b-be01-4d63-ac44-ebf9f139cb77.png)
+There you have it: 
+
+![preview](./preview.png)
+
 
 ## Why SVG?
 Putting everything in a single page is not an easy task. With a vector graphics editor, like [Inkscape](https://inkscape.org/), you have way more control on the elements positioning and formatting than using a documents editor.
