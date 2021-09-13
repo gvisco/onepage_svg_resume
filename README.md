@@ -1,7 +1,7 @@
 # onepage_svg_resume
 A template of a one-page resume, in SVG.
 
-## How does it looks like?
+## How does it look like?
 There you have it 
 
 ![preview](./preview.png)
